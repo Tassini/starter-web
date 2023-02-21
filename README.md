@@ -17,3 +17,7 @@ Como falado acima, vamos dar alguns exemplos
 Bla bla bla
 
 ## Como contribuir
+
+## Copyright
+
+Não gosto dessa palavra.
