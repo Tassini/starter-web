@@ -10,6 +10,10 @@ Um exemplo de como mostrar diferentes partes do repositório git e vários coman
 
 Sample website with plenty of files for demos
 
+Como falado acima, vamos dar alguns exemplos
+
 ## Deployment
+
+Bla bla bla
 
 ## Como contribuir
