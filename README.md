@@ -4,6 +4,8 @@ Este é um repositório para mostrar como usar o Git e o Github
 
 ## Introdução
 
+Um exemplo de como mostrar diferentes partes do repositório git e vários comandos usando um projeto web.
+
 ## Propósito
 
 Sample website with plenty of files for demos
